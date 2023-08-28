@@ -1,20 +1,47 @@
-## About Me
+## Hi there 👋
 
-Hello! I'm [Evrim Gürenekli] 👋 , a positive and visionary front-end developer. I have expertise in HTML, CSS, JavaScript, and React, and I thoroughly enjoy taking on challenging projects that fuel my imagination.
+I'm using HTML, CSS, JavaScript and React  to make websites dance. 🕺🏽
 
-My passion for front-end development is driven by the desire to create exceptional user experiences that exceed expectations and bring my creative ideas to life through carefully crafted and user-friendly interfaces.
+**I love working with**
 
-## My Skills
+<div display="flex">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</div>
 
-- Strong foundation in HTML, CSS, and JavaScript
-- Experience with modern front-end technologies like React
-- Building efficient and visually appealing user interfaces
-- User-centric design thinking approach
-- Developing creative solutions to tackle problems
+### 🔭 I’m working on
+💻 I have over 1 years of experience as a Front-End Developer.
+- Projects for freelance clients.
+- ' Mimcode'/ Istanbul 
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/CodeWithByEvo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/CodeWithByEvo">
+    <img src="https://img.shields.io/badge/CodeWithByEvo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@frevrim44">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+### ⚡ Fun fact
+
+I'm definitely not a cat person.
+
+<!--
+**codewithbernard/codewithbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 
-## Get in Touch
-
-- **Email:** frevrim44@gmail.com
-- **LinkedIn:** [LinkedIn Profile]([[https://www.linkedin.com/in/user](https://www.linkedin.com/feed/)](https://www.linkedin.com/in/evrim-g%C3%BCrenekli-b86917b5/))
-
-Feel free to reach out if you have any questions, project ideas, or just want to say hello! I'm always excited to connect and collaborate on exciting projects.
+- 
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+-->
