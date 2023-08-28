@@ -32,6 +32,9 @@ I'm using HTML, CSS, JavaScript and React  to make websites dance. 🕺🏽
   <a href="https://medium.com/@frevrim44">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <a href="https://www.instagram.com/evrimgurenekli/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
 
 ### ⚡ Fun fact
