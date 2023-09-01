@@ -17,8 +17,7 @@ I'm using HTML, CSS, JavaScript and React  to make websites dance. 🕺🏽
 
 ### 🔭 I’m working on
 💻 I have over 1 years of experience as a Front-End Developer.
-- Projects for freelance clients.
-- ' Mimcode'/ Istanbul 
+- Projects for freelance clients. 
 
 ### 📫 How to reach me
 
